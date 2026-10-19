@@ -1,0 +1,52 @@
+
+
+Below are five credible sources combining peer-reviewed academic research and an official OECD report.
+
+1. **Aiudi, Alice; Francioni, Barbara; Kyrdoda, Yuliia; and Amerio, Simona**
+
+   **Title:** “The Role of Artificial Intelligence in International Strategic Decision-Making for SMEs”
+   **Publication:** *Journal of Strategy and Management*, Vol. 19, No. 2
+   **Year:** 2026
+   **DOI:** https://doi.org/10.1108/JSMA-06-2025-0207
+
+   **Relevance:** This is one of the most directly relevant empirical studies. Based on case studies of six Italian manufacturing SMEs, it examines how AI affects decision quality, speed, accuracy, decentralization, communication and formalization. It finds that AI can support market analysis, opportunity identification and international expansion, while emphasizing limitations such as skills gaps, costs and organizational resistance. ([sciencedirect.com](https://www.sciencedirect.com/org/science/article/pii/S1755425X25000283?utm_source=openai))
+
+2. **Oldemeyer, Leon; Jede, Andreas; and Teuteberg, Frank**
+
+   **Title:** “Investigation of Artificial Intelligence in SMEs: A Systematic Review of the State of the Art and the Main Implementation Challenges”
+   **Publication:** *Management Review Quarterly*, Vol. 75, pp. 1185–1227
+   **Year:** 2025 *(published online in 2024)*
+   **DOI:** https://doi.org/10.1007/s11301-024-00405-4
+
+   **Relevance:** This systematic review synthesizes research on AI applications in industrial and manufacturing SMEs. It is useful for identifying AI-supported operational and managerial use cases, as well as the organizational, technical, financial and regulatory barriers that influence whether SMEs can translate AI-generated information into better decisions. ([link.springer.com](https://link.springer.com/article/10.1007/s11301-024-00405-4))
+
+3. **Pozzo, Danielle Nunes; Gonzalez Beleño, Carlos Alfonso; Reales Correa, Katherine; Garizabal Donado, Mildred Eugenia; Gomez Pedroza, Fredy J.; and Moncada Diaz, Jaime E.**
+
+   **Title:** “Managers’ Attitudes and Behavioral Intentions Towards Using Artificial Intelligence for Organizational Decision-Making: A Study with Colombian SMEs”
+   **Publication:** *Procedia Computer Science*, Vol. 238, pp. 956–961
+   **Year:** 2024
+   **DOI:** https://doi.org/10.1016/j.procs.2024.06.119
+
+   **Relevance:** Drawing on data from 83 Colombian SMEs, this study examines whether managers are willing to adopt AI for organizational decision-making. It shows that facilitating conditions—such as infrastructure, organizational support and access to appropriate resources—are important for turning AI’s potential into actual managerial use. It is particularly valuable for understanding adoption in emerging economies. ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S1877050924013553?utm_source=openai))
+
+4. **Wei, Rongbin, and Pardo, Catherine**
+
+   **Title:** “Artificial Intelligence and SMEs: How Can B2B SMEs Leverage AI Platforms to Integrate AI Technologies?”
+   **Publication:** *Industrial Marketing Management*, Vol. 107, pp. 466–483
+   **Year:** 2022
+   **DOI:** https://doi.org/10.1016/j.indmarman.2022.10.008
+
+   **Relevance:** Based on 21 interviews involving an AI platform, SME users and technology providers, this study explains how SMEs can obtain AI capabilities without developing expensive systems internally. It shows how platform-based AI helps SMEs process customer and operational data, generate insights, predict outcomes and recommend actions—functions that directly support evidence-based decisions. ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0019850122002474?utm_source=openai))
+
+5. **Organisation for Economic Co-operation and Development — OECD**
+
+   **Title:** *The Digital Transformation of SMEs*
+   **Publication:** OECD Studies on SMEs and Entrepreneurship
+   **Year:** 2021
+   **DOI:** https://doi.org/10.1787/bdb9256a-en
+
+   **Relevance:** Chapter 5, “Artificial Intelligence: Changing Landscape for SMEs,” explicitly explains how AI supports decision-making through predictive analytics, real-time forecasting, risk reduction, scenario development and better coordination between business functions. It also discusses applications in strategy, marketing, supply chains, production, finance and human-resource management, alongside adoption barriers specific to smaller firms. ([oecd.org](https://www.oecd.org/en/publications/the-digital-transformation-of-smes_bdb9256a-en/full-report/component-9.html?utm_source=openai))
+
+Together, these sources cover **direct decision-making outcomes**, **managerial acceptance**, **technical integration mechanisms**, **implementation barriers** and **broader policy evidence** concerning AI use in SMEs.
+
+C:\Users\Pekka Peltonen\Uusi kansio\HAMKI_Assignment_6_Grounded_Article_PDF>

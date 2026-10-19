@@ -1,0 +1,43 @@
+Assignment #6 – Reference Verification and Comparison
+
+Student: Pekka Peltonen
+
+Article topic: How Artificial Intelligence Improves Decision-Making in Small and Medium-Sized Enterprises
+
+1. Article generated with web search
+
+The application used web search to identify scientific publications and official research reports. Five references were included in the generated article.
+
+The references were checked against the original publishers' websites. The publications and their DOI links were confirmed to exist. However, some bibliographic details in the generated PDF still require correction, including the publication year used for Oldemeyer et al.
+
+Result: 5 genuine sources identified; bibliographic accuracy requires additional checking.
+
+2. Article generated without web search
+
+The same topic was used to generate a comparison article without web search. The model produced three references.
+
+Reference 1 – Bessen
+
+The reference described AI and Jobs: The Role of Demand as a 2019 publication. The original NBER working paper was issued in January 2018.
+
+Result: Genuine publication, incorrect year.
+
+Reference 2 – Huang and Rust
+
+The reference gave the title as Artificial Intelligence in Service. The original publisher identifies the article as Engaged to a Robot? The Role of AI in Service.
+
+Result: Genuine publication identified, incorrect title.
+
+Reference 3 – McCarthy et al.
+
+The reference claimed a 2020 article titled An Overview of Artificial Intelligence in Marketing in the Journal of Business Research. The searches and publisher pages examined did not establish a matching publication.
+
+Result: Unverified reference; potentially hallucinated or incorrectly combined bibliographic information.
+
+3. Comparison and conclusion
+
+The web-search version produced five identifiable real sources, although reference details still needed verification.
+
+The version without web search produced three references: two contained confirmed errors, and one could not be verified.
+
+This comparison demonstrates that language models may generate plausible but inaccurate academic references. Web search improves source traceability, but it does not replace manual verification of authors, titles, years, and DOI links.
